@@ -14,10 +14,10 @@ El código utiliza la función `clear()` para borrar la pantalla de la consola y
 
 | Usuarios | Contraseñas | Num. Cuentas | Balance |
 | :------: | :---------: | :----------: | :-----: |
-| Darlin | 1234 | 00 | $ 10000.00 |
-| | | 01 | $ 1500.00 |
+| Darlin | 1234 | 00 | $ 10,000.00 |
+| | | 01 | $ 1,500.00 |
 | Yeiser | 4321 | 02 | $ 0.00 |
 | | | 03 | $ 100.00 |
-| Jannovi | 0000 | 04 | $ 12500.00 |
+| Jannovi | 0000 | 04 | $ 12,500.00 |
 | | | 05 | $ 265.50
 
